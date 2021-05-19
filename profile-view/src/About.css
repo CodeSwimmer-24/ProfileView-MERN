@@ -1,0 +1,62 @@
+.about__container {
+  display: flex;
+  margin-top: 50px !important;
+  margin: 0 auto;
+  height: 70vh;
+  width: 70vw;
+  background-color: white;
+  padding: 50px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 3px 20px 5px;
+}
+.about__container-left > img {
+  height: 150px;
+  margin-left: 15px;
+}
+.about__socialLinks {
+  margin-top: 20px;
+  margin-left: 40px;
+  cursor: pointer;
+}
+.container-top {
+  display: flex;
+  margin-left: 60px;
+}
+.eidprofile__btn {
+  margin-left: 200px;
+}
+.eidprofile__btn > button {
+  border: none;
+  border-radius: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #ccdaf7;
+}
+.conatiner__bottom {
+  margin-top: 15px;
+  margin-left: 50px;
+}
+.conatiner__bottom > span {
+  margin-left: 15px;
+  font-size: 18px;
+  cursor: pointer;
+  border-bottom: 2px solid blue;
+  font-size: 18px;
+  font-weight: 600;
+}
+.spam__timeline {
+  border-bottom: none !important;
+  color: rgb(0, 162, 255);
+}
+.conatiner__about {
+  margin-top: 15px;
+  display: flex;
+}
+.about__text {
+  margin-left: 15px;
+}
+.about__userText {
+  margin-left: 80px !important;
+  color: blue;
+}

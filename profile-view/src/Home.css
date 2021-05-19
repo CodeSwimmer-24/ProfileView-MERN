@@ -1,0 +1,14 @@
+.home {
+  background-color: rgba(112, 178, 240, 0.2);
+  height: 88vh;
+}
+.home > img {
+  position: absolute;
+  z-index: -1;
+}
+.home__text {
+  padding-top: 30vh;
+}
+.home__text > h1 {
+  padding: 3px;
+}

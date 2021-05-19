@@ -1,0 +1,40 @@
+.contact__company-details {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
+.contact__details {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100px;
+  width: 300px;
+  background-color: white;
+  border: 1px solid #2d65aa;
+  border-radius: 5px;
+  color: #292f45;
+}
+.contact__customer-details {
+  display: flex;
+  justify-content: space-evenly;
+}
+.contact__container > h1 {
+  padding-left: 40px;
+  font-weight: 300;
+}
+.contact__container {
+  width: 70%;
+  height: 55vh;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 30px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 3px 20px 5px;
+}
+.message__Box {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.send__btn {
+  padding-left: 40px;
+}
